@@ -1,6 +1,5 @@
 # Population-Dynamics-Modeling
-The following assignment script is part of the coursework completed in the lecture "Computational Economics $I$" at TU Chemnitz, presented by Prof. Dr. Heinrich. Comments within the script acknowledge the course context, and where applicable, specify instances where the code is developed based on provided course materials.
-
+The following assignment script is part of the coursework completed in the lecture "Computational Economics $I$" at TU Chemnitz, presented by Prof. Dr. Heinrich. 
 ## Problem
 This Python script models the interaction between rabbit and cat populations sharing the same ecosystem. The simulation considers factors such as rabbit population growth, predation by cats, the impact of cars on both populations, and initial population sizes.
 
